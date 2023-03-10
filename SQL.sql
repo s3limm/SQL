@@ -1,4 +1,1 @@
-SELECT 
-[ID], [CUSTOMERNAME], [CITY], [BIRTHDATE], [DISTRICT], [GENDER]
-FROM
-ETRADE.dbo.CUSTOMER
+Select CustomerName From Customer Where City='Ýstanbul' 
